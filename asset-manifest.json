@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.56309bf4.css",
-    "main.js": "/static/js/main.dd3e6599.js",
-    "static/js/787.4b752bae.chunk.js": "/static/js/787.4b752bae.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.56309bf4.css.map": "/static/css/main.56309bf4.css.map",
-    "main.dd3e6599.js.map": "/static/js/main.dd3e6599.js.map",
-    "787.4b752bae.chunk.js.map": "/static/js/787.4b752bae.chunk.js.map"
+    "main.css": "/ToDoListApp/static/css/main.56309bf4.css",
+    "main.js": "/ToDoListApp/static/js/main.ac5163a3.js",
+    "static/js/787.4b752bae.chunk.js": "/ToDoListApp/static/js/787.4b752bae.chunk.js",
+    "static/media/logo.svg": "/ToDoListApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ToDoListApp/index.html",
+    "main.56309bf4.css.map": "/ToDoListApp/static/css/main.56309bf4.css.map",
+    "main.ac5163a3.js.map": "/ToDoListApp/static/js/main.ac5163a3.js.map",
+    "787.4b752bae.chunk.js.map": "/ToDoListApp/static/js/787.4b752bae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56309bf4.css",
-    "static/js/main.dd3e6599.js"
+    "static/js/main.ac5163a3.js"
   ]
 }
